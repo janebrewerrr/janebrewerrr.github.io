@@ -8,6 +8,9 @@
 }
 
 html {
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
     box-sizing: border-box;
     /* keeps button boxes within phone screen width */
     -ms-text-size-adjust: 100%;
@@ -34,7 +37,7 @@ body {
     background-attachment: fixed;
     /* Resizes the background image to cover the entire container */
     background-size: cover;
-    font-family: Futura, Verdana, sans-serif;
+    font-family: "Outfit", sans-serif;
     line-height: 1.5;
     font-size: 18px;
     display: flex;
